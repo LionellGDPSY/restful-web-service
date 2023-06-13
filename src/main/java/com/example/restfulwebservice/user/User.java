@@ -12,4 +12,7 @@ public class User {
     private String name;
     private Date joinDate;
 
+
+    public User() {
+    }
 }
